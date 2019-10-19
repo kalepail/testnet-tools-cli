@@ -1,12 +1,12 @@
 {
   "name": "testnet-tools",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Never worry about a Stellar testnet reset again.",
   "author": "Tyler van der Hoeven <hi@tyler.chat>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tinyanvil/testnet-tools.git"
+    "url": "git@github.com:tinyanvil/testnet-tools-cli.git"
   },
   "bin": "./bin/cmd.js",
   "scripts": {
